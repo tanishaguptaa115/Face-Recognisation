@@ -1,5 +1,6 @@
 # Face-Recognisation
 Face Recognition Using OpenCV
+
 📌 Description
 This project utilizes OpenCV's Haar Cascade classifier to detect human faces in an image. The program processes an input image by converting it to grayscale, detecting faces, and marking them with bounding boxes. This is a fundamental implementation of face recognition using computer vision techniques.
 
