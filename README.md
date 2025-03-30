@@ -36,7 +36,3 @@ Input Image → Face Detected Image (with rectangles around faces).
 - Implement real-time face detection using a webcam.  
 - Integrate deep learning-based face recognition for better accuracy.  
 - Add GUI for user-friendly interaction.  
-
----
-
-Let me know if you need any modifications or additional details! 🚀
